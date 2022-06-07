@@ -1,0 +1,17 @@
+version: "3.9"
+
+services:
+
+  jupyter-lab:
+    image: jupyter/minimal-notebook:latest
+    container_name: jupyter-lab
+    build:
+      context: .
+      args:
+      - GITHUB_TOKEN=${GITHUB_TOKEN}
+      dockerfile: Dockerfile
+    ports:
+      - 8888:8888
+    environment:
+      JUPYTER_ENABLE_LAB: "yes"
+      JUPYTER_TOKEN: "docker"
