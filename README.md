@@ -13,11 +13,18 @@ Further resources are available showing the [general capacities of eodal](notebo
 
 ## Getting started
 
-First of all, request access to eodal by sending a mail to lukasvalentin.graf [at] usys.ethz.ch. Please provide:
+First of all, request access to eodal by sending a mail to either `lukasvalentin.graf [at] usys.ethz.ch` or `helge.aasen [at] agroscope.admin.ch` with subject `[eodal access request] <your name>`.
 
+Please provide:
+
+* your full name
 * your Github user name (to be used to grant access)
+* your institution/ organization (if applicable)
 * a short statement (2-3 sentences) about your intended usage of `eodal` including your intended area of application.
-* once you have access to `eodal` follow the Step-by-Step Guide below
+
+All your information is handled confidentially and will not be passed on to any third party.
+
+Once you have access to `eodal` follow the Step-by-Step Guide below
 
 ### Step-by-Step Guide
 
@@ -30,7 +37,7 @@ First of all, request access to eodal by sending a mail to lukasvalentin.graf [a
 git clone https://github.com/remote-sensing-team/eodal_notebooks
 ```
 
-3. Modify the .env file. Place a `.env` file in the root of this repository (i.e., where this README is located). Enter your [personal Github access token](https://github.com/settings/tokens) into the file:
+3. Modify the .env file. Place a `.env` file in the root of this repository (i.e., where this README is located). Enter your [personal Github access token](https://github.com/settings/tokens) into the file (here shown for working in the Linux shell, Windows cmd works similar):
 
 ```{bash}
 cd eodal_notebooks
@@ -56,3 +63,20 @@ docker-compose up -d
 ```
 
 Finally, open your browser and go to (`0.0.0.0:8888` or `localhost:8888`) to access the Jupyter server login page. The token is `docker`.
+
+Now, you can re-run all Notebooks.
+
+## License
+
+See [the license file](LICENSE).
+
+## Authors:
+
+`eodal` and `eodal_notebooks` are actively maintained by a team of researchers and Python enthusiasts at the Remote Sensing Team at the [Swiss centre of excellence for agricultural research (Agroscope)](https://www.agroscope.admin.ch/agroscope/en/home.html) and [the Group of Crop Science at ETH Zurich](https://kp.ethz.ch/).
+
+See [authors.txt](authors.txt) for a full list of current and past developers who contributed to this repository.
+
+## Contributions
+
+Contributions (reporting bugs, fixing bugs, development of new features, writing and improving tests and documentation, etc.) are welcome. Please always open an Issue in the [issue-board](https://github.com/remote-sensing-team/eodal_notebooks/issues) first.
+
