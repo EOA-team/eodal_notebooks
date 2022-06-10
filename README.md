@@ -26,7 +26,7 @@ Further resources are available showing the [general capacities of E:earth_afric
 
 ## Getting started
 
-`E:earth_africa:dal` is still undergoing pre-release development. To request access to E:earth_africa:dal send a mail to either `lukasvalentin.graf[at]usys.ethz.ch` or `helge.aasen[at]agroscope.admin.ch` with subject `[E:earth_africa:dal access request] <your name>` to get access to the full code base and the latest features.
+E:earth_africa:dal is still undergoing pre-release development. To request access to E:earth_africa:dal send a mail to either `lukasvalentin.graf[at]usys.ethz.ch` or `helge.aasen[at]agroscope.admin.ch` with subject `[E:earth_africa:dal access request] <your name>` to get access to the full code base and the latest features.
 
 Please provide:
 
