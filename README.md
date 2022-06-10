@@ -1,6 +1,6 @@
 # E:earth_africa:dal notebooks
 
-This is a collection of example notebooks showcasting the capabilities of `E:earth_africa:dal` (**E**arth **O**bservation **D**ata **A**nalysis **L**ibrary).
+This is a collection of example notebooks showcasting the capabilities of E:earth_africa:dal (**E**arth **O**bservation **D**ata **A**nalysis **L**ibrary).
 
 The [notebook "Sentinel-2 crop growing conditions"](notebooks/Sentinel-2/sentinel2_crop_growing_conditions.ipynb) is the fully-reproducible example highlighted in
 
@@ -33,11 +33,11 @@ Please provide:
 * your full name
 * your Github user name (to be used to grant access)
 * your institution/ organization (if applicable)
-* a short statement (2-3 sentences) about your intended usage of `E:earth_africa:dal` including your intended area of application.
+* a short statement (2-3 sentences) about your intended usage of E:earth_africa:dal including your intended area of application.
 
 All your information is handled confidentially and will not be passed on to any third party.
 
-Once you have access to `E:earth_africa:dal` follow the Step-by-Step Guide below
+Once you have access to E:earth_africa:dal follow the Step-by-Step Guide below
 
 ### Step-by-Step Guide
 
@@ -85,7 +85,7 @@ See [the license file](LICENSE).
 
 ## Authors:
 
-`E:earth_africa:dal` and `E:earth_africa:dal_notebooks` are actively maintained by a team of researchers and Python enthusiasts at the Remote Sensing Team at the [Swiss centre of excellence for agricultural research (Agroscope)](https://www.agroscope.admin.ch/agroscope/en/home.html) and [the Group of Crop Science at ETH Zurich](https://kp.ethz.ch/).
+E:earth_africa:dal and E:earth_africa:dal_notebooks are actively maintained by a team of researchers and Python enthusiasts at the Remote Sensing Team at the [Swiss centre of excellence for agricultural research (Agroscope)](https://www.agroscope.admin.ch/agroscope/en/home.html) and [the Group of Crop Science at ETH Zurich](https://kp.ethz.ch/).
 
 See [authors.txt](authors.txt) for a full list of current and past developers who contributed to this repository.
 
