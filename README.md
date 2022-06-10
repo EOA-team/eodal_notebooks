@@ -11,9 +11,22 @@ using the open-access Sentinel-2 collection on [Microsoft Planetary Computer](ht
 
 Further resources are available showing the [general capacities of eodal](notebooks/General/) and further [Sentinel-2 data handling](notebooks/Sentinel-2/) in a fully reproducible manner.
 
+## Available Notebooks
+
+- [General](notebooks/General/)
+
+    * [Load Images](notebooks/General/Loading_Images.ipynb)
+
+- [Sentinel-2](notebooks/Sentinel-2/)
+
+    * [Data Handling](notebooks/Sentinel-2/sentinel2_data_handling.ipynb)
+    * [Crop Growing Conditions](notebooks/Sentinel-2/sentinel2_crop_growing_conditions.ipynb)
+    * [Field Parcel Extraction](notebooks/Sentinel-2/sentinel2_field_parcel_extraction.ipynb)
+    
+
 ## Getting started
 
-First of all, request access to eodal by sending a mail to either `lukasvalentin.graf [at] usys.ethz.ch` or `helge.aasen [at] agroscope.admin.ch` with subject `[eodal access request] <your name>`.
+`eodal` is still undergoing pre-release development. To request access to eodal send a mail to either `lukasvalentin.graf[at]usys.ethz.ch` or `helge.aasen[at]agroscope.admin.ch` with subject `[eodal access request] <your name>` to get access to the full code base and the latest features.
 
 Please provide:
 
