@@ -5,7 +5,7 @@ This is a collection of example notebooks showcasting the capabilities of E:eart
 The [notebook "Sentinel-2 crop growing conditions"](notebooks/Sentinel-2/sentinel2_crop_growing_conditions.ipynb) is the fully-reproducible example highlighted in
 
 ```
-Graf, L.V, et al. (2022): E:earth_africa:dal: An Open-Source Python Package for Ecosystem Scale Agricultural Research Using Earth Observation and Gridded Environmental Data. Under Review.
+Graf, L.V, et al. (2022): EOdal: An Open-Source Python Package for Large Scale Agricultural Research Using Earth Observation and Gridded Environmental Data. Under Review.
 ```
 using the open-access Sentinel-2 collection on [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/) (no authentication required).
 
@@ -26,14 +26,14 @@ Further resources are available showing the [general capacities of E:earth_afric
 
 ## Getting started
 
-E:earth_africa:dal is still undergoing pre-release development. To request access to E:earth_africa:dal send a mail to either `lukasvalentin.graf[at]usys.ethz.ch` or `helge.aasen[at]agroscope.admin.ch` with subject `[E:earth_africa:dal access request] <your name>` to get access to the full code base and the latest features.
+E:earth_africa:dal is still undergoing pre-release development. To request access to E:earth_africa:dal send a mail to either `lukasvalentin.graf[at]usys.ethz.ch` or `helge.aasen[at]agroscope.admin.ch` with subject `[EOdal access request] <your name>` to get access to the full code base and the latest features.
 
 Please provide:
 
 * your full name
 * your Github user name (to be used to grant access)
 * your institution/ organization (if applicable)
-* a short statement (2-3 sentences) about your intended usage of E:earth_africa:dal including your intended area of application.
+* a short statement (2-3 sentences) about your intended usage of E:earth_africa:dal including your area of application/ research.
 
 All your information is handled confidentially and will not be passed on to any third party.
 
