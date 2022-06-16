@@ -1,0 +1,42 @@
+Federal Office of Meteorology and Climatology, MeteoSwiss
+Operation Center 1
+Postfach 257
+8058 Zürich-Flughafen
+
+stn yyyyMMddHHmm
+
+stn Station abbreviation
+y   Year
+M   Month
+d   Day
+H   Hour
+m   Minute
+
+Times in UTC:            0040 UTC = 02:40 Summer time
+                                  = 01:40 Winter time
+
+Observation interval for hourly values, unless otherwise indicated in the parameter descrip-tion: HH  = (HH-1):01 - HH:00
+Example: 13 = observation period 12:01 to 13:00 
+
+Missing values are marked with '-'
+
+Quality information: The key to quality information can be found under: https://gate.meteoswiss.ch/idaweb/text/datenqualitaet_legende_de.pdf
+
+ 
+
+
+
+Stations
+--------
+stn       Name                                 Parameter        Data source                                        Longitude/Latitude       Coordinates [km] Elevation [m]
+BEINS     Ins                                  tre200dx         Kanton Bern                                        7°07'/46°60'             574900/205308    450
+BEINS     Ins                                  tre200dn         Kanton Bern                                        7°07'/46°60'             574900/205308    450
+BEINS     Ins                                  tre200d0         Kanton Bern                                        7°07'/46°60'             574900/205308    450
+
+Parameter
+---------
+          Unit                                 Description
+tre200dx  °C                                   Air temperature 2 m above ground; daily maximum
+tre200dn  °C                                   Air temperature 2 m above ground; daily minimum
+tre200d0  °C                                   Air temperature 2 m above ground; daily mean
+

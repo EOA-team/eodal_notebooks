@@ -1,0 +1,6 @@
+Authors
+-------
+
+Lukas Valentin Graf @lukasValentin, Group of Crop Science at ETH Zurich and Remote Sensing Team at Agroscope
+Gregor Perich @gperich, Group of Crop Science at ETH Zurich and Remote Sensing Team at Agroscope
+
