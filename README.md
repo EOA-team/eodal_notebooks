@@ -53,7 +53,7 @@ git clone https://github.com/remote-sensing-team/eodal_notebooks
 3. Modify the .env file. Place a `.env` file in the root of this repository (i.e., where this README is located). Enter your [personal Github access token](https://github.com/settings/tokens) into the file (here shown for working in the Linux shell, Windows cmd works similar):
 
 ```{bash}
-cd E:earth_africa:dal_notebooks
+cd eodal_notebooks
 
 touch .env
 echo ${GITHUB_TOKEN} > .env
