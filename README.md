@@ -85,7 +85,7 @@ See [the license file](LICENSE).
 
 ## Authors:
 
-E:earth_africa:dal and E:earth_africa:dal_notebooks are actively maintained by a team of researchers and Python enthusiasts at the Remote Sensing Team at the [Swiss centre of excellence for agricultural research (Agroscope)](https://www.agroscope.admin.ch/agroscope/en/home.html) and [the Group of Crop Science at ETH Zurich](https://kp.ethz.ch/).
+E:earth_africa:dal and E:earth_africa:dal_notebooks are actively maintained by a team of researchers and Python enthusiasts at the [Earth Observation of Agroecosystems Team](https://www.eoa-team.net/) at the [Swiss centre of excellence for agricultural research (Agroscope)](https://www.agroscope.admin.ch/agroscope/en/home.html) and [the Group of Crop Science at ETH Zurich](https://kp.ethz.ch/).
 
 See [authors.txt](authors.txt) for a full list of current and past developers who contributed to this repository.
 
