@@ -21,7 +21,7 @@ RUN pip3 install folium
 ARG GITHUB_TOKEN=default_token
 ENV GITHUB_TOKEN=${GITHUB_TOKEN}
 ENV USE_STAC=True
-RUN pip3 install git+https://${GITHUB_TOKEN}@github.com/remote-sensing-team/eodal.git@master
+RUN pip3 install git+https://${GITHUB_TOKEN}@github.com/EOA-team/eodal.git@master
 RUN pip3 install jupyterlab
 
 # start the jupyter server
