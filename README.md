@@ -4,9 +4,8 @@ This is a collection of example notebooks showcasting the capabilities of E:eart
 
 The [notebook "Sentinel-2 crop growing conditions"](notebooks/Sentinel-2/sentinel2_crop_growing_conditions.ipynb) is the fully-reproducible example highlighted in
 
-```
-Graf, L.V, et al. (2022): EOdal: An Open-Source Python Package for Large Scale Agricultural Research Using Earth Observation and Gridded Environmental Data. Submitted to Computers & Electronics in Agriculture.
-```
+> Graf, L.V, et al. (2022): EOdal: An Open-Source Python Package for Large Scale Agricultural Research Using Earth Observation and Gridded Environmental Data. Computers & Electronics in Agriculture, 203. https://doi.org/10.1016/j.compag.2022.107487
+
 using the open-access Sentinel-2 collection on [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/) (no authentication required).
 
 Further resources are available showing the [general capacities of E:earth_africa:dal](notebooks/General/) and further [Sentinel-2 data handling](notebooks/Sentinel-2/) in a fully reproducible manner.
