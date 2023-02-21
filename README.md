@@ -15,6 +15,7 @@ Further resources are available showing the [general capacities of E:earth_afric
 - [General](notebooks/General/)
 
     * [Load Images](notebooks/General/Loading_Images.ipynb)
+    * [Introduction to the Mapper class](notebooks/General/EOdal_Mapper.ipynb)
 
 - [Sentinel-2](notebooks/Sentinel-2/)
 
