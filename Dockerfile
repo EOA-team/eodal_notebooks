@@ -6,7 +6,7 @@ RUN apt -y install python3-pip
 RUN apt-get install 'ffmpeg'\
     'libsm6'\ 
     'libxext6'  -y
-
+RUN apt-get -y install unzip
 # define working directory
 WORKDIR /eodal
 
