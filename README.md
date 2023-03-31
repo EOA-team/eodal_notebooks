@@ -4,9 +4,8 @@ This is a collection of example notebooks showcasting the capabilities of E:eart
 
 The [notebook "Sentinel-2 crop growing conditions"](notebooks/Sentinel-2/sentinel2_crop_growing_conditions.ipynb) is the fully-reproducible example highlighted in
 
-```
-Graf, L.V, et al. (2022): EOdal: An Open-Source Python Package for Large Scale Agricultural Research Using Earth Observation and Gridded Environmental Data. Under Review.
-```
+> Graf, L.V, et al. (2022): EOdal: An Open-Source Python Package for Large Scale Agricultural Research Using Earth Observation and Gridded Environmental Data. Computers & Electronics in Agriculture, 203. https://doi.org/10.1016/j.compag.2022.107487
+
 using the open-access Sentinel-2 collection on [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/) (no authentication required).
 
 Further resources are available showing the [general capacities of E:earth_africa:dal](notebooks/General/) and further [Sentinel-2 data handling](notebooks/Sentinel-2/) in a fully reproducible manner.
@@ -48,13 +47,13 @@ Once you have access to E:earth_africa:dal follow the Step-by-Step Guide below
 2. Clone the repository from Github:
 
 ```{bash}
-git clone https://github.com/remote-sensing-team/eodal_notebooks
+git clone https://github.com/EOA-team/eodal_notebooks
 ```
 
 3. Modify the .env file. Place a `.env` file in the root of this repository (i.e., where this README is located). Enter your [personal Github access token](https://github.com/settings/tokens) into the file (here shown for working in the Linux shell, Windows cmd works similar):
 
 ```{bash}
-cd E:earth_africa:dal_notebooks
+cd eodal_notebooks
 
 touch .env
 echo ${GITHUB_TOKEN} > .env
@@ -86,11 +85,11 @@ See [the license file](LICENSE).
 
 ## Authors:
 
-E:earth_africa:dal and E:earth_africa:dal_notebooks are actively maintained by a team of researchers and Python enthusiasts at the Remote Sensing Team at the [Swiss centre of excellence for agricultural research (Agroscope)](https://www.agroscope.admin.ch/agroscope/en/home.html) and [the Group of Crop Science at ETH Zurich](https://kp.ethz.ch/).
+E:earth_africa:dal and E:earth_africa:dal_notebooks are actively maintained by a team of researchers and Python enthusiasts at the [Earth Observation of Agroecosystems Team](https://www.eoa-team.net/) at the [Swiss centre of excellence for agricultural research (Agroscope)](https://www.agroscope.admin.ch/agroscope/en/home.html) and [the Group of Crop Science at ETH Zurich](https://kp.ethz.ch/).
 
 See [authors.txt](authors.txt) for a full list of current and past developers who contributed to this repository.
 
 ## Contributions
 
-Contributions (reporting bugs, fixing bugs, development of new features, writing and improving tests and documentation, etc.) are welcome. Please always open an Issue in the [issue-board](https://github.com/remote-sensing-team/E:earth_africa:dal_notebooks/issues) first.
+Contributions (reporting bugs, fixing bugs, development of new features, writing and improving tests and documentation, etc.) are welcome. Please always open an Issue in the [issue-board](https://github.com/EOA-team/E:earth_africa:dal_notebooks/issues) first.
 
