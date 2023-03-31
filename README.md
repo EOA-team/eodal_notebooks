@@ -22,6 +22,7 @@ Further resources are available showing the [general capacities of E:earth_afric
     * [Data Handling](notebooks/Sentinel-2/sentinel2_data_handling.ipynb)
     * [Crop Growing Conditions](notebooks/Sentinel-2/sentinel2_crop_growing_conditions.ipynb)
     * [Field Parcel Extraction](notebooks/Sentinel-2/sentinel2_field_parcel_extraction.ipynb)
+    * [Zonal Statistics of Field Parcels](notebooks/Sentinel-2/sentinel2_zonal_statistics.ipynb)
     
 
 ## Getting started
