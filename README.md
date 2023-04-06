@@ -39,7 +39,7 @@ or get the latest source code version from [Github](https://github.com/EOA-team/
 pip install git+https://github.com/EOA-team/eodal
 ```
 
-A step-by-step guide showing how to run the notebooks in a Docker container can be found below.
+Furthermore, a step-by-step guide shows you how to run the notebooks in a Docker container that can be found below.
 
 ### Step-by-Step Guide
 
