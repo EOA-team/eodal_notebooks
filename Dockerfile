@@ -13,14 +13,16 @@ WORKDIR /eodal
 # install eodal
 # Step 1: COPY source code
 COPY . .
-# Step 2: install eodal from source
+# Step 2: install eodal from PyPI
 # rasterio must be by-passed because of problems in the C-headers with Python 3.10
 RUN pip3 install --upgrade pip
 RUN pip3 install rasterio==1.3a3
 RUN pip3 install folium
-ENV USE_STAC=True
 RUN pip3 install eodal
 RUN pip3 install jupyterlab
+
+# prepare the environment
+ENV USE_STAC=True
 
 # start the jupyter server
 EXPOSE 8888
