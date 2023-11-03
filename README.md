@@ -24,7 +24,7 @@ Further resources are available showing the [general capacities of E:earth_afric
     * [Field Parcel Extraction](notebooks/Sentinel-2/sentinel2_field_parcel_extraction.ipynb)
     * [Zonal Statistics of Field Parcels](notebooks/Sentinel-2/sentinel2_zonal_statistics.ipynb)
     * [Sentinel-2 Long Time Series Data to 4-D Numpy Array](notebooks/Sentinel-2/sentinel2_data_download_to_array.ipynb)
-    
+    * [Green Leaf Retrieval from Sentinel-2 Imagery](/notebooks/Sentinel-2/sentinel2_leaf_area_index.ipynb)
 
 ## Getting started
 
